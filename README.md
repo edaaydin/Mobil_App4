@@ -1,16 +1,5 @@
 # youtube_music
 
-A new Flutter project.
+Uzun bir süredir mobil uygulama arayüz tasarımı konusunda deneyim kazanıyorum. Geliştirmiş olduğum Youtube Music arayüz tasarımını sizlerle paylaşmak istiyorum 💫
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1440" alt="Eda_Youtube" src="https://github.com/edaaydin/Mobil_App4/assets/119500243/c5676240-77e8-473d-86fb-0f8fc528dcf7">
